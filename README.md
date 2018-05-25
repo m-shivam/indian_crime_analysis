@@ -5,5 +5,3 @@ Power BI is a cloud-based business analytics service that enables anyone to visu
 
 ## [Data sets used for crime analysis](https://www.kaggle.com/rajanand/crime-in-india/version/4#)
 
-### crime category- Rape
-The following are visualizations extracted from the data set related to Rape category
